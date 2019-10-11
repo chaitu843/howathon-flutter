@@ -1,5 +1,15 @@
-To do ->
+HR FORECAST SYSTEM
 
-1. Need to navigate login based on the role of the user
+=========================================================================================
 
-2. 
+Enhancements
+
+==========================================================================================
+
+1. Dashboard for Account Managers/Directors
+
+2. Scheduling Interview
+
+3. Staffing Selected Candidates with a cardbased UI
+
+
